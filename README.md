@@ -1,4 +1,4 @@
-# NUIST-CV：南京信息工程大学 LaTeX 中文简历模板
+# 南京信息工程大学简历模版
 
 ![模板预览](docs/preview.png)
 
