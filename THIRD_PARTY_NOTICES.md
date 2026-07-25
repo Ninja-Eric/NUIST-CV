@@ -10,13 +10,15 @@
 
 ## 科比肖像
 
-- 文件：`images/kobe-bryant-portrait.jpg`
+- 原始文件：`images/kobe-bryant-portrait.jpg`
+- 衍生文件：`images/kobe-absurd-id.png`
 - 作品名：`Kobe Bryant 2015 (cropped).jpg`
 - 摄影：Keith Allison
 - 裁切：Wikimedia Commons 用户 KOKUYO
 - 来源：[Wikimedia Commons 文件页](https://commons.wikimedia.org/wiki/File:Kobe_Bryant_2015_(cropped).jpg)
 - 许可证：[Creative Commons Attribution-ShareAlike 2.0 Generic](https://creativecommons.org/licenses/by-sa/2.0/)
-- 本仓库使用 Wikimedia Commons 上的裁切版本，未再修改图像内容。许可证全文见 `LICENSES/CC-BY-SA-2.0.txt`。
+- 原始文件使用 Wikimedia Commons 上的裁切版本，未修改图像内容。
+- 衍生文件在原始文件上增加了蓝底网格、04:00 时钟光环、单片镜、虚构正装和 24 号徽章，同样依照 CC BY-SA 2.0 提供。许可证全文见 `LICENSES/CC-BY-SA-2.0.txt`。
 
 ## 字体
 
